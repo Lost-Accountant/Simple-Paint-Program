@@ -20,3 +20,7 @@ Choose to fill or not fill the shapes drawn
 Save painting records in a txt file
 
 Load saved paiting records
+
+# Screenshot
+
+![Screenshot](https://imgur.com/a/aX3rad0)
