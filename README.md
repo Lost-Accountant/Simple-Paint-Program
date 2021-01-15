@@ -23,4 +23,4 @@ Load saved paiting records
 
 # Screenshot
 
-![Screenshot]([Imgur](https://i.imgur.com/nuDdDYp.png)0)
+[Imgur](https://i.imgur.com/nuDdDYp.png)
