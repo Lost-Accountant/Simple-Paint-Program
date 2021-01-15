@@ -23,4 +23,4 @@ Load saved paiting records
 
 # Screenshot
 
-![Screenshot](https://imgur.com/a/aX3rad0)
+![Screenshot]([Imgur](https://i.imgur.com/nuDdDYp.png)0)
