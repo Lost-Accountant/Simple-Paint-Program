@@ -2,6 +2,8 @@
 This is a paint program written in Java. It is part of my self studying on CSC207 Software Design.
 This is Assignment 2, a group project intended for 4 people, and I did it myself in my free time after work.
 
+UML diagram is available in the repository
+
 ## Supported Feature
 Paint shapes (Circle, Square, Rectangle)
 
